@@ -12,3 +12,4 @@ Adiciona a tag ` <rc-multisel /> ` ao Browser:
     </rc-multisel>
 ~~~
 
+![print](https://ricardobraganca.github.io/doubleselect/img/print.png)
